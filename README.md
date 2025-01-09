@@ -1,6 +1,6 @@
 [Alejandro Ramirez] 
 🚀 Software Engineer | Full-Stack Developer | Tech Enthusiast
-![]([https://giphy.com/gifs/pixel-coffee-art-3oz8xKkuY65HJlC4lq](https://media0.giphy.com/media/3oz8xKkuY65HJlC4lq/giphy.gif?cid=6c09b952o4n8jz847ru5a73tt7z4dxvawoaiml8mtixugezr&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g))
+![]([[https://giphy.com/gifs/pixel-coffee-art-3oz8xKkuY65HJlC4lq](https://media0.giphy.com/media/3oz8xKkuY65HJlC4lq/giphy.gif?cid=6c09b952o4n8jz847ru5a73tt7z4dxvawoaiml8mtixugezr&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)](https://i.pinimg.com/originals/09/c2/d5/09c2d5d856012ed19290c8d340e619e4.gif)
 💡 About Me:
 I'm a passionate software engineer with a background in full-stack web development, specializing in the MERN stack, Java, Python, and C++. I enjoy building scalable, user-focused applications and exploring machine learning models.
 
