@@ -3,6 +3,8 @@
 
 💡 About Me:
 I'm a passionate software engineer with a background in full-stack web development, specializing in the MERN stack, Java, Python, and C++. I enjoy building scalable, user-focused applications and exploring machine learning models.
+![](https://github.com/user-attachments/assets/90edb3c8-1190-4eca-891f-151ad46d75ad)
+
 
 🛠️ Tech Stack:
 
