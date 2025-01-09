@@ -1,10 +1,8 @@
-[Alejandro Ramirez] 🚀 Software Engineer | Full-Stack Developer | Tech Enthusiast
-
+[Alejandro Ramirez] 
+🚀 Software Engineer | Full-Stack Developer | Tech Enthusiast
 
 💡 About Me:
 I'm a passionate software engineer with a background in full-stack web development, specializing in the MERN stack, Java, Python, and C++. I enjoy building scalable, user-focused applications and exploring machine learning models.
-![](https://github.com/user-attachments/assets/90edb3c8-1190-4eca-891f-151ad46d75ad)
-
 
 🛠️ Tech Stack:
 
@@ -17,7 +15,7 @@ I'm a passionate software engineer with a background in full-stack web developme
     MBTA Live – Real-time public transit tracker for Boston
     SSU Social – Social platform built with modern web technologies
 
-📈 What I’m Working On:
+![](https://github.com/user-attachments/assets/90edb3c8-1190-4eca-891f-151ad46d75ad) 📈 What I’m Working On:
 Currently developing a car comparison web app using the MERN stack, styled with Tailwind CSS. This app leverages the Ninjas API to compare vehicles on metrics like MPG, cylinders, and displacement, with plans to add more metrics and data visualizations to enhance the user experience.
 
 📫 Let's Connect:
