@@ -1,6 +1,6 @@
 [Alejandro Ramirez] 
 🚀 Software Engineer | Full-Stack Developer | Tech Enthusiast
-
+![](https://giphy.com/gifs/pixel-coffee-art-3oz8xKkuY65HJlC4lq)
 💡 About Me:
 I'm a passionate software engineer with a background in full-stack web development, specializing in the MERN stack, Java, Python, and C++. I enjoy building scalable, user-focused applications and exploring machine learning models.
 
