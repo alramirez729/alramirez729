@@ -10,8 +10,8 @@ I'm a passionate software engineer with a background in full-stack web developme
     Experience with Agile, Scrum, and CI/CD practices
 
 🌟 Projects I'm Proud Of:
-    > Car vs Car - https://car-vs-car-webapp.vercel.app/ 
-        A web application that allows users to compare two vehicles based on a variety of metrics and specifications, including performance, safety, price, and fuel efficiency. Users can set their vehicle preferences and receive AI-powered suggestions for a more         personalized experience. This web app aims to help users make more informed decisions when shopping for a car.
+
+    > Car vs Car - https://car-vs-car-webapp.vercel.app/ A web application that allows users to compare two vehicles based on a variety of metrics and specifications Users can set their vehicle preferences and receive AI-powered suggestions for a more personalized experience. 
     > MBTA Live – Real-time public transit tracker for Boston https://se24mbta-0tek.onrender.com/ 
     > SSU Social – Social platform built with modern web technologies (MERN stack; S3 Bucket...)
 
