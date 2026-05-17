@@ -1,26 +1,39 @@
-[Alejandro Ramirez] 
-🚀 Software Engineer | Full-Stack Developer | Tech Enthusiast
-💡 About Me:
-I'm a passionate software engineer with a background in full-stack web development, specializing in the MERN stack, Java, Python, and C++. I enjoy building scalable, user-focused applications and exploring machine learning models.
+### Hello, I'm Alejandro :) 
 
-🛠️ Tech Stack:
+I'm a software engineer by day. i like building things that actually work and tearing apart things that don't.
+Currently @ Liberty Mutual
 
-    Languages: JavaScript, Java, Python, C, C++
-    Frameworks & Tools: React, MERN, Express, Tailwind CSS, Git, MongoDB, MySQL
-    Experience with Agile, Scrum, and CI/CD practices
+Outside of the computer, I like to cook, make music, workout, and travel. I love technology but life is just as good outside. 
 
-🌟 Projects I'm Proud Of:
+### stack
+ 
+```
+languages  →  python · javascript · typescript · java · c / c++
+frontend   →  react · tailwind · html/css
+backend    →  node · express · rest apis
+cloud      →  aws (lambda, api gateway, cdk) · azure
+databases  →  mongodb · dynamodb · neptune · snowflake · mysql
+tooling    →  datadog · splunk · github actions
+```
+ 
+---
 
-    > Car vs Car - https://car-vs-car-webapp.vercel.app/ A web application that allows users to compare two vehicles based on a variety of metrics and specifications Users can set their vehicle preferences and receive AI-powered suggestions for a more personalized experience. 
-    > MBTA Live – Real-time public transit tracker for Boston https://se24mbta-0tek.onrender.com/ 
-    > SSU Social – Social platform built with modern web technologies (MERN stack; S3 Bucket...)
+
+### things i've built
+ 
+**[car vs car](https://car-vs-car-webapp.vercel.app/)** — compare cars, get AI recommendations, have a mild argument with your friends about which one is objectively better
+ 
+**[MBTA live](https://se24mbta-0tek.onrender.com/)** — real-time Boston transit tracker (for when the T is lying to you)
+ 
+**SSU Social** — social platform, MERN stack, S3 under the hood
+ 
+---
+
 
 ![](https://i.redd.it/1d11s820dgm91.gif)
 
-📈 What I’m currently working on:
-Currently developing a car comparison web app using the MERN stack, styled with Tailwind CSS. This app leverages the Ninjas API to compare vehicles on metrics like MPG, cylinders, and displacement, with plans to add more metrics and data visualizations to enhance the user experience.
+Hopefully, in time, I'll have a few more projects that I finalize and put out there. 
 
-📫 Let's connect!;
-Feel free to explore my work and collaborate!
-
-![](https://64.media.tumblr.com/ae94530a37856674bbfa2e6d3eb72691/44310c87cb2d17df-70/s540x810/5a26233f3b493286609ce8d44bd5927fdbaa0c5f.gifv)
+### find me
+ 
+[linkedin](https://linkedin.com/in/-alejandro-ramirez) · [github](https://github.com/alramirez729) · alramirez729@gmail.com
