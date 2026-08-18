@@ -23,7 +23,7 @@ tooling    →  datadog · splunk · github actions
  
 **[car vs car](https://car-vs-car-webapp.vercel.app/)** — compare cars, get AI recommendations, have a mild argument with your friends about which one is objectively better
  
-**[MBTA live](https://se24mbta-0tek.onrender.com/)** — real-time Boston transit tracker (for when the T is lying to you)
+**[MBTA live](https://mbta-live.vercel.app/subway)** — real-time Boston transit tracker (for when the T is lying to you)
  
 **SSU Social** — social platform, MERN stack, S3 under the hood
  
